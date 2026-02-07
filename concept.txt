@@ -1,0 +1,18 @@
+Project Name: Water Plant Operator Game
+
+Key Actors:
+
+External Actors:
+- Plant Operator (The Player)
+- Consumers (Households/Industrial)
+
+Internal Actors:
+- Water Source (River/Reservoir)
+- Filtration Pool (Corrected spelling: Filteration → Filtration)
+- Distribution Pool (The "middle-man" reserving pool)
+- Water Pumps
+
+Events:
+- Drought
+- Heavy Rain (Flood risk/Turbidity)
+- Facility Maintenance (Equipment downtime)
